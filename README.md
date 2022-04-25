@@ -13,9 +13,9 @@
 
 
 ## I have technical experience and interest in , 
-$ machine learning
-$ deep learning
-$ statstical modelling
-$ research papers
+ - $ machine learning
+ - $ deep learning
+ - $ statstical modelling
+ - $ research papers
 
 
