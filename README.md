@@ -18,4 +18,6 @@
  - $ statstical modelling
  - $ research papers
 
+## Latest Technologies and Tools
+ - 
 
