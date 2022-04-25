@@ -12,3 +12,10 @@
 - 📫 How to reach me: https://www.linkedin.com/in/shrikant-kumbhar-4a53b6204/
 
 
+## I have technical experience and interest in , 
+$ machine learning
+$ deep learning
+$ statstical modelling
+$ research papers
+
+
