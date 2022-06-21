@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on machine learning project 
+- 🔭 I’m currently working on machine learning project and deep learning project 
 - 🌱 I’m currently learning Neural networks
 - 👯 I’m looking to collaborate on latest technologies
 - 💬 Ask me about machine learning and deep learning
